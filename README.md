@@ -7,4 +7,4 @@ Employee attrition at the organization with a work-life balance rating of 1 is p
 The employee attrition rate at the company receiving a rating of 1 for job satisfaction is notably high
 The rate of employee attrition as a whole is 16%. PDF
 PPT LINK -https://www.canva.com/design/DAF8T2Eing4/SgNhqImc2qXJSu4aDvSgTw/view?utm_content=DAF8T2Eing4&utm_campaign=designshare&utm_medium=link&utm_source=editor
-MS EXCEL LINK -
+MS EXCEL LINK -https://docs.google.com/spreadsheets/d/18kDZGqMwfVLelCjZ_ev_KX5MFej2YWTF/edit?usp=sharing&ouid=111245890364380677353&rtpof=true&sd=true
